@@ -1,0 +1,10 @@
+[package]
+name = "conway-life"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ratatui = "0.29"
+crossterm = "0.28"
+rand = "0.8"
+anyhow = "1"
